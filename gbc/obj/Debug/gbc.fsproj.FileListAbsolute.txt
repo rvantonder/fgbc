@@ -1,0 +1,9 @@
+c:\users\rai\documents\visual studio 2012\Projects\gbc\gbc\bin\Debug\gbc.exe.config
+c:\users\rai\documents\visual studio 2012\Projects\gbc\gbc\bin\Debug\gbc.XML
+c:\users\rai\documents\visual studio 2012\Projects\gbc\gbc\bin\Debug\gbc.exe
+c:\users\rai\documents\visual studio 2012\Projects\gbc\gbc\bin\Debug\gbc.pdb
+c:\users\rai\documents\visual studio 2012\Projects\gbc\gbc\bin\Debug\FSharp.Core.dll
+c:\users\rai\documents\visual studio 2012\Projects\gbc\gbc\bin\Debug\FSharp.Core.xml
+c:\users\rai\documents\visual studio 2012\Projects\gbc\gbc\obj\Debug\gbc.fsprojResolveAssemblyReference.cache
+c:\users\rai\documents\visual studio 2012\Projects\gbc\gbc\obj\Debug\gbc.exe
+c:\users\rai\documents\visual studio 2012\Projects\gbc\gbc\obj\Debug\gbc.pdb
